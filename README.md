@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrYKTG&&show_icons=true&theme=orange" alt="MrYKTG"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrYKTG&&show_icons=true&theme=midnight-purple" alt="MrYKTG"/></p>
 
 Used Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrYKTG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
