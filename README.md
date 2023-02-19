@@ -12,20 +12,6 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=AM-ROBOTS&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>    
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AM_ROBOTS&theme=highcontrast)](https://github.com/AM-ROBOTS/github-readme-streak-stats)
-</div>
-
-<p align="center">
-  <a href="https://github.com/AM-ROBOTS">
-    <img src="https://activity-graph.herokuapp.com/graph?username=AM-ROBOTS&theme=react-dark" />
-  </a>
-</p>
-
-<p align="center">
-<a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
-  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
-</p>
-
 <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <p align="center">
 <a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
