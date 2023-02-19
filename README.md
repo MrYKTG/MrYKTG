@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MrYKTG/MrYKTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+MrYKTG+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Deploma+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+Youtube+come+developer+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Anurag" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Anurag+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Deploma+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+small+Youtube+come+developer+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Anurag" width="650" height="55">
 
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
@@ -32,32 +27,3 @@
 <a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
 </p>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=ZINAN)](https://git.io/typing-svg) &nbsp;&nbsp;
-
-
-[![Deploy](https://telegra.ph/file/8a835209ad2a0e767eb79.jpg)](https://t.me/zinan00100_1bot)
-
-<div align="center">
-<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Zinan100}/count.svg"/></p> 
-
-<h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-<p align="center">
-<a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
-
-
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zinan100&&show_icons=true&theme=midnight-purple" alt="Zinan100"/></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinan100&layout=compact&theme=tokyonight" align="center">
-
-<hr></hr>  
-    
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/yedhukrishnanu19"/>
-
-
-
-</div>
-
-  
