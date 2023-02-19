@@ -8,9 +8,6 @@
 <p align="center">
 <a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 
-<a href="https://telegram.dog/AnuragB8_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Anurag-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-</p>
-
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=AM-ROBOTS&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>    
