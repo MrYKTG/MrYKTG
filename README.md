@@ -22,4 +22,3 @@ Used Languages
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Greymattersbot&theme=chartreuse-dark" alt="mystreak"/>
-<a href="https://github.com/Greymattersbot"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Greymattersbot&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
