@@ -4,8 +4,9 @@
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrYKTG}/count.svg"/></p> 
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anuragmaheshwari_official/)
- [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg)
+ <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<p align="center">
+<a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 
 <a href="https://telegram.dog/AnuragB8_Bot"><img alt="Telegram" src="https://img.shields.io/badge/Anurag-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
