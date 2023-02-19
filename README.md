@@ -16,7 +16,3 @@
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrYKTG&&show_icons=true&theme=midnight-purple" alt="MrYKTG"/></p>
-
-<p align="center">
-Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKYTG&layout=compact&theme=tokyonight" align="center">
