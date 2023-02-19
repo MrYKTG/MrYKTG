@@ -19,3 +19,12 @@
 
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYKTG&layout=compact&theme=tokyonight" align="center">
+
+
+<hr></hr>  
+    
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/yedhukrishnanu19"/>
+
+
+
+</div>
