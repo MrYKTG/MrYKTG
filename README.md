@@ -21,4 +21,4 @@ Used Languages
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Greymattersbot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Greymattersbot&theme=chartreuse-dark" alt="mystreak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrYKTG&theme=chartreuse-dark" alt="mystreak"/>
