@@ -2,7 +2,7 @@
 
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AM-ROBOTS}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrYKTG}/count.svg"/></p> 
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anuragmaheshwari_official/)
  [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg)
