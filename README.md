@@ -10,7 +10,9 @@
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=MrYKTG&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>    
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zinan100&layout=compact&theme=tokyonight" align="center">    
 
 <hr></hr>  
     
