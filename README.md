@@ -14,6 +14,10 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=MrYKTG&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYKTG&layout=compact&theme=tokyonight" align="center">    
 
 <hr></hr>  
