@@ -9,7 +9,7 @@
 <a href="https://t.me/zinan00100_1bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=AM-ROBOTS&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=MrYKTG&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>    
 
 <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
