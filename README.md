@@ -23,3 +23,28 @@ Used Languages
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrYKTG&theme=chartreuse-dark" alt="mystreak"/>
+
+<a href="https://github.com/MrYKTG">
+  <img alt="Neon's Activity Graph" src="https://ghactivity.mrayush.me/graph?username=MyselfNeon&bg_color=1F222E&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+### 👀 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 𝑽𝒊𝒔𝒊𝒕𝒐𝒓𝒔 𝑪𝒐𝒖𝒏𝒕𝒆𝒓
+<a href="https://github.com/MrYKTG"><img alt="Loli Count" src="https://count.getloli.com/get/@MyselfNeon?theme=loli" /></a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<h3> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="55px">𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒐𝒏 𝑺𝒑𝒐𝒕𝒊𝒇𝒚</h3>
+
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="100%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
