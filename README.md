@@ -3,13 +3,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrYKTG}/count.svg"/></p> 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px"> **About Me**
 
- <h3 align="center">Contact me<img align="center" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-<p align="center">
-<a href="https://t.me/Manager_11Bot"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
+<img align="right" height="240" width="390" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-9cf?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning-Rust-dea584?style=for-the-badge&logo=rust" alt="Learning" />
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=MrYKTG&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
